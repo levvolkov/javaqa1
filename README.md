@@ -12,7 +12,7 @@
 ## Инструкция к заданию
 
 1. Скачайте и установите профессиональный редактор кода [Intellij Idea Community Version](https://www.jetbrains.com/idea/download/).
-1. Откройте IDEA и [создайте новый Java-проект](QA_Java_Idea_Create.md).
+1. Откройте IDEA и [создайте новый Java-проект](https://github.com/netology-code/javaqa-homeworks-video/blob/javaqa-55/QA_Java_Idea_Create.md).
 2. Создайте пустой репозиторий на GitHub и свяжите его с папкой вашего проекта (не с какой-либо другой папкой).
 3. Правильно настройте репозиторий в плане `.gitignore`. Проигнорируйте папки `.idea` и `out` и `.iml`-файл — их в репозитории быть не должно.
 4. Выполните в IDEA задачу согласно условию.
@@ -23,7 +23,7 @@
 
 ## Материалы, которые пригодятся для выполнения задания
 
-1. [Как создать Java-проект в IDEA](QA_Java_Idea_Create.md).
+1. [Как создать Java-проект в IDEA](https://github.com/netology-code/javaqa-homeworks-video/blob/javaqa-55/QA_Java_Idea_Create.md).
 
 ------
 
@@ -55,7 +55,7 @@ public class Main {
 Для анализа этой программы
 
 1. Установите бесплатную версию идеи (**Community version**) с [официальной страницы](https://www.jetbrains.com/idea/download).
-1. [Создайте новый проект](QA_Java_Idea_Create.md) на основе **Java 11**.
+1. [Создайте новый проект](https://github.com/netology-code/javaqa-homeworks-video/blob/javaqa-55/QA_Java_Idea_Create.md) на основе **Java 11**.
 1. Создайте класс `Main` с содержимым из кода выше.
 1. Нажмите на кнопку запуска программы. Она должна запуститься, вывести информацию на экран и завершиться.
 1. Закоммитьте и запушьте ваш проект в публичный репозиторий на GitHub. Не забудьте правильно его настроить в плане игнорирования ненужных файлов.
